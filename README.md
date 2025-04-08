@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>     
 </p>
 
-[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsanjay&show_icons=true&theme=radical&hide=stars,issues,contribs)](https://github.com/zsanjay/github-readme-stats)
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsanjay&show_icons=true&theme=dracula&hide=stars,issues,contribs)](https://github.com/zsanjay/github-readme-stats)
 
