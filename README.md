@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
-  <li>I'm <a href = "https://zsanjay.github.io/">Sanjay Mehta</a>, a Senior Software Engineer having 6+ years of experience working in various domains like full stack, backend and data engineering.</li>
+  <li>I'm <a href = "https://zsanjay.github.io/">Sanjay Mehta</a>, a Senior Software Engineer having 7+ years of experience working in various domains like full stack, backend and data engineering.</li>
   <li>Subscribe to my <a href = "https://sanjayofficial.substack.com/">Tech Newsletter</a></li>
   <li>Follow me on <a href="https://www.linkedin.com/in/sanjay-mehta-475280176/">LinkedIn</a> to stay updated.</li>
 </ul>
