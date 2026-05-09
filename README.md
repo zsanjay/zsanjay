@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </ul>
 
 <h2 align="center"> 🚀 &nbsp;Some Languages and Tools, I Have Used and Learned</h2>
-<div align="center">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="display:inline; margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display:inline; margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45" style="display:inline; margin: 5px;"/>
