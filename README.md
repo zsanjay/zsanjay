@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🚀 &nbsp;Some Languages and Tools, I Have Used and Learned</h2>
 <div>
-[![My Skills](https://skillicons.dev/icons?i=java,vscode,aws,angular&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,aws,angular&theme=dark)](https://skillicons.dev) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="display:inline; margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display:inline; margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45" style="display:inline; margin: 5px;"/>
