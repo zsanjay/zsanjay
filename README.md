@@ -24,40 +24,18 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🚀 &nbsp;Some Languages and Tools, I Have Used and Learned</h2>
 <div>
-[![My Skills](https://skillicons.dev/icons?i=java,vscode,aws,angular&theme=dark)](https://skillicons.dev) 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,vscode,aws,angular,html,bootstrap,css,docker,eclipse,hibernate,python,javascript,typescript,react,nextjs,jenkins,kubernetes,linux,mongodb,mysql,postgresql,postman&theme=dark&perline=8" />
   </a>
-</p>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="display:inline; margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display:inline; margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45" style="display:inline; margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="45" height="45" style="display:inline; margin: 5px;"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45" style="display:inline; margin: 5px;"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" style="display:inline; margin: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="display:inline; margin: 5px;"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" alt="junit" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45" style="display:inline; margin: 5px;"/>                        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="postman" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45" style="display:inline; margin: 5px;"/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="display:inline; margin: 5px;"/>     
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=zsanjay&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+	<img width="450em" src="https://streak-stats.demolab.com/?user=zsanjay&hide_border=true&theme=dark"/>
+</p>
 </div>
-
-| <a href="https://github.com/zsanjay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zsanjay&show_icons=true&theme=dracula&hide=stars,issues,contribs&hide_border=true" alt="Sanjay's github stats" /></a> | <a href="https://github.com/zsanjay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanjay&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
